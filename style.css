@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+th{
+    background-color: grey;
+}
+table{
+    width: 90%;
+    height: 500px;
+    margin: 50px;
+  
+}
+tr{
+    text-align: center;
+}
